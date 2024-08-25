@@ -39,6 +39,7 @@ Install the following python packages using the following script-
 pip install -r requirements.txt
 ```
 
+link to the app-'https://anime-recomannia.streamlit.app/'
 4.Run the application through this command-
 
 ```bash
