@@ -1,8 +1,8 @@
 # Anime-recommendation-system
 Content Based Anime Recommendation Streamlit App
 
-i.) It uses the 'Anime Recommendations Database' from Kaggle(link-'https://www.kaggle.com/datasets/CooperUnion/anime-recommendations-database?select=anime.csv') to analyze and display the top 50 Popular animes based on the rating and number of votes received by the animes.
-Streamlit is used to build the web app
+i.) It uses the 'Anime Recommendations Database' from Kaggle(link-'https://www.kaggle.com/datasets/CooperUnion/anime-recommendations-database?select=anime.csv') to analyze and display the top 50 Popular animes based on the rating and number of votes received by the animes.\n
+Streamlit is used to build the web app.
 
 ## This is the 'Popular Animes' page of the app-
 
