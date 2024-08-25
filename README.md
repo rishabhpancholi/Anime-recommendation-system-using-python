@@ -20,3 +20,4 @@ pip install -r requirements.txt
 4.Run the application through this command-
 
 python app.py
+
