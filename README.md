@@ -21,8 +21,8 @@ iii.) To fetch the anime info 'myanimelist.net' api is used.
 ## To get started with this project,follow the steps mentioned below:
 1. Clone the repository
 ```bash
-git clone https://github.com/rishabhpancholi/anime-recommendation-system.git
-cd anime-recommendation-system
+git clone https://github.com/rishabhpancholi/Anime-recommendation-system.git
+cd Anime-recommendation-system
 ```
 
 2. Download the required file 'similarity.pkl'
