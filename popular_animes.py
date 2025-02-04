@@ -35,7 +35,7 @@ def app():
             if index < len(valid_anime_list):
                 anime_info = valid_anime_list[index]
                 with col:
-                    st.image(anime_info['images']['jpg']['image_url'], use_column_width=True)
+                    st.image(anime_info['images']['jpg']['image_url'], use_container_width=True)
                     st.markdown(f"**{anime_info['title']}**")
                     st.markdown(f"⭐ {anime_info['score']} | 🎬 {anime_info['type']}")
 
