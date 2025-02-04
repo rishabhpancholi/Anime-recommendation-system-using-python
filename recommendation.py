@@ -54,7 +54,7 @@ def app():
                 if index < len(content_based_reco_info):  # Check if the index is within bounds
                     anime_info = content_based_reco_info[index]
                     with col:
-                        st.image(anime_info['images']['jpg']['image_url'], use_column_width=True)
+                        st.image(anime_info['images']['jpg']['image_url'], use_container_width=True)
                         st.markdown(f"**{anime_info['title']}**")
                         st.markdown(f"⭐ {anime_info['score']} | 🎬 {anime_info['type']}")
                         genres = [genre['name'] for genre in anime_info.get('genres', [])]
