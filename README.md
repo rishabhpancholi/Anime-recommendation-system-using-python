@@ -45,6 +45,3 @@ pip install -r requirements.txt
 ```bash
 python app.py
 ```
-
-
-link to the app-'https://anime-recomannia.streamlit.app/'
